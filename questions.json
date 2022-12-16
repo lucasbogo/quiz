@@ -1,0 +1,60 @@
+{
+    "questions":
+    [
+        {
+            "question":"Who is the Author of The Metamorphosis?",
+            "answers":
+            [
+                {
+                    "alternative":"a", 
+                    "description":"karl Marx", 
+                    "correct":false
+                },
+                {
+                    "alternative":"b", 
+                    "description":"Franz Kafka", 
+                    "correct":true
+                },
+                {
+                    "alternative":"c", 
+                    "description":"Earnest Hemingway", 
+                    "correct":false
+                },
+                {
+                    "alternative":"d", 
+                    "description":"Fiodor Dostoyevski", 
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who is the father of the Anarchism",
+            "answers":
+            [
+                {
+                    "alternative":"a", 
+                    "description":"Mikhail Bakunin", 
+                    "correct":true
+                },
+                {
+                    "alternative":"b", 
+                    "description":"Karl Marx", 
+                    "correct":false
+                },
+                {
+                    "alternative":"c", 
+                    "description":"Adam Smith", 
+                    "correct":false
+                },
+                {
+                    "alternative":"d", 
+                    "description":"Friedrich Engels", 
+                    "correct":false
+                }
+            ]
+        },
+        {
+            
+        }
+    ]
+}
